@@ -1,17 +1,14 @@
 Hola! 👋 Soy Federico Cano EN / ES
 
-📚 Tengo un bachiller especializado en Informática Aplicada y actualmente me encuentro estudiando Ingeniería en Sistemas de Información en UTN FRBA
+📚 Estudiante de Ingeniería en Sistemas de Información en UTN FRBA. Título secundario de Bachiller en Informática aplicada.
 
-💻 Estoy recién comenzando a usar github (Abril 2022). También estoy aprendiendo a programar en los siguientes lenguajes:
-  - C
-  - C++
-  - JavaScript
-  - Ruby
-  - Python
+💻 Estoy familiarizado con los siguientes lenguajes (de más a menos)
+  - C / C++
   - Haskell
   - Prolog
+  - Wollok
   
-  Aunque si bien conozco la sintaxis no estoy muy avanzado en el uso de estos
+  Actualmente estoy realizando un curso para hacer Full Stack developer.
 
 <!---
 FV-Cano/FV-Cano is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
