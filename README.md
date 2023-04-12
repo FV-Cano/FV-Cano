@@ -9,7 +9,7 @@ Look into my pinned repositories to see some of my work.
 
 <h3 align="left">Get to kwow me!</h3>
 <p align="center">
-<a href="https://linkedin.com/in/federico vicente cano" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="federico vicente cano" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/cano-federico" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="federico vicente cano" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/cano_fv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="cano_fv" height="30" width="40" /></a>
 </p>
 
